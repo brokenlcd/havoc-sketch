@@ -1,0 +1,4 @@
+* Proof of concept code (see github.com/brokenlcd/havoc-poc) works on the
+  desktop.
+* The Arduino code has not been tested, pending design verification and
+  construction of the Havoc board.
